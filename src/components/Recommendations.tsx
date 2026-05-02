@@ -7,7 +7,7 @@ const locations = [
     location: "Ba Na Hills, Da Nang",
     description: "The iconic bridge held by giant hands. Best visited at 6:30 AM for overnight guests to avoid the crowds.",
     howToGet: "Cable Car from the foot of Ba Na Hills.",
-    image: "https://images.unsplash.com/photo-1582234371533-300408107567?auto=format&fit=crop&q=80&w=800",
+    image: "https://images.unsplash.com/photo-1730271079274-70269bb8a914?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     name: "Hoi An Ancient Town",
