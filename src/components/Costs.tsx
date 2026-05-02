@@ -3,14 +3,14 @@ import { Info } from 'lucide-react';
 
 const Costs: React.FC = () => {
   const expenses = [
-    { category: "Accommodation", detail: "2 nights Da Nang/Hoi An + 1 night Ba Na Hills", cost: "$800" },
-    { category: "Ba Na Hills Tickets", detail: "Cable car + Entry for 4 persons", cost: "$148" },
-    { category: "Transportation", detail: "Private car / Grab for 4 days", cost: "$200" },
-    { category: "Meals", detail: "Street food & local restaurants", cost: "$400" },
-    { category: "Activities", detail: "Basket boat, Marble Mt, Lantern boat", cost: "$100" },
+    { category: "Accommodation", detail: "2 nights Da Nang/Hoi An + 1 night Ba Na Hills", cost: "28,000 THB" },
+    { category: "Ba Na Hills Tickets", detail: "Cable car + Entry for 4 persons", cost: "5,200 THB" },
+    { category: "Transportation", detail: "Private car / Grab for 4 days", cost: "7,000 THB" },
+    { category: "Meals", detail: "Street food & local restaurants", cost: "14,000 THB" },
+    { category: "Activities", detail: "Basket boat, Marble Mt, Lantern boat", cost: "3,500 THB" },
   ];
 
-  const total = 1648;
+  const total = "57,700";
 
   return (
     <section id="costs" className="costs">
@@ -38,7 +38,7 @@ const Costs: React.FC = () => {
               <tfoot>
                 <tr>
                   <td colSpan={2}>Grand Total</td>
-                  <td className="total">{`$${total}`}</td>
+                  <td className="total">{`${total} THB`}</td>
                 </tr>
               </tfoot>
             </table>
