@@ -1,4 +1,5 @@
 import { Plane, MapPin, Calendar, Users } from 'lucide-react';
+import heroImage from '../assets/hero.png';
 
 const Hero: React.FC = () => {
   return (
@@ -34,7 +35,7 @@ const Hero: React.FC = () => {
           display: flex;
           align-items: center;
           background: linear-gradient(to bottom, rgba(15, 23, 42, 0.8), var(--bg-primary)),
-                      url('https://images.unsplash.com/photo-1559592442-7e18259f63cc?auto=format&fit=crop&q=80&w=2000') no-repeat center/cover;
+                      url(${heroImage}) no-repeat center/cover;
           position: relative;
           overflow: hidden;
         }
