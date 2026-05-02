@@ -14,21 +14,21 @@ const locations = [
     location: "Quang Nam Province",
     description: "A well-preserved example of a South-East Asian trading port dating from the 15th to the 19th century.",
     howToGet: "Private car or Grab from Da Nang (approx 45 mins).",
-    image: "https://images.unsplash.com/photo-1599708145759-96695349e38e?auto=format&fit=crop&q=80&w=800",
+    image: "https://images.unsplash.com/photo-1571267012859-a81bae0c849b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     name: "Dragon Bridge",
     location: "Da Nang City Center",
     description: "A bridge shaped like a dragon that breathes fire and water on weekend nights (Fri-Sun at 9 PM).",
     howToGet: "Walk or Grab from any hotel in Da Nang.",
-    image: "https://images.unsplash.com/photo-1559592442-7e18259f63cc?auto=format&fit=crop&q=80&w=800",
+    image: "https://images.unsplash.com/photo-1701396173407-aa8b2cb44583?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     name: "Lady Buddha",
     location: "Son Tra Peninsula",
     description: "The tallest statue of Avalokitesvara in Vietnam, overlooking the beautiful Da Nang bay.",
     howToGet: "Private car or motorbike up the coastal road.",
-    image: "https://images.unsplash.com/photo-1598533221437-1262d08a0d4c?auto=format&fit=crop&q=80&w=800",
+    image: "https://static.vinwonders.com/production/2025/05/lady-buddha-da-nang-banner.jpg",
   },
 ];
 
